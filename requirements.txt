@@ -1,0 +1,5 @@
+pytest
+playwright
+selenium
+beautifulsoup4
+requests
